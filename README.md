@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ChaeHoon Lim
+# 👋 안녕하세요, 임채훈입니다.
 
 끊임없이 기록하며 성장하는 주니어 개발자입니다.  
 Python, Java, JavaScript, C를 기반으로  

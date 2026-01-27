@@ -7,7 +7,7 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 ---
 
 ## 🛠 Tech Stack
-- **Language**: Python, Java, JavaScript, C
+- **Language**: Python, Java, JavaScript, C, C#
 - **Backend**: Spring Boot
 - **Frontend**: React
 - **AI / Data**: Pandas, NLP, LLM 활용

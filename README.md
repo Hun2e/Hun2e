@@ -31,7 +31,7 @@ Python, Java, JavaScript, C를 기반으로
 > AI NPC와 상호작용하는 몰입형 안전교육 시스템  
 - NLP 기반 대화형 AI
 - Unity + AI Agent  
-👉 https://github.com/Hun2e/VR-AI-Project
+👉 https://github.com/Hun2e/AI-NPC-VR-Safety-Training
 
 ---
 

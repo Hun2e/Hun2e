@@ -1,8 +1,8 @@
 # 👋 안녕하세요, 임채훈입니다.
 
-끊임없이 기록하며 성장하는 주니어 개발자입니다.  
-Python, Java, JavaScript, C를 기반으로  
-데이터 분석, 웹 개발, AI 개발 등의 프로젝트를 진행해왔습니다.
+문제를 정의하고, 기술로 해결하는 과정을 중요하게 생각하는 주니어 개발자입니다.  
+AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로  
+**사용자와 상호작용하는 시스템**을 만드는 데 관심이 있습니다.
 
 ---
 
@@ -10,28 +10,42 @@ Python, Java, JavaScript, C를 기반으로
 - **Language**: Python, Java, JavaScript, C
 - **Backend**: Spring Boot
 - **Frontend**: React
+- **AI / Data**: Pandas, NLP, LLM 활용
 - **Tools**: GitHub, VS Code, IntelliJ
 
 ---
 
-## 📂 Projects
-### 🔹 Studying-React
-> React 기초 학습 및 실습 정리  
-- useState, 컴포넌트 구조, 이벤트 처리
-- 학습 코드 & 정리 문서 포함  
-👉 https://github.com/Hun2e/Studying-React
+## ⭐ Featured Projects
 
-### 🔹 대형마트 빅데이터 분석 프로젝트
-> 대형마트 매출증대 방안 도출 프로젝트
-- 데이터 분석, 해석, 방안 도출
-- Python + Pandas + ...  
+### 🧠 AI NPC 기반 VR 재난 대피 교육 시스템
+> VR 환경에서 사용자와 음성으로 상호작용하는 AI NPC 구현 프로젝트
+
+- AI NPC 상호작용 로직 및 음성 파이프라인(STT → LLM → TTS) 구현
+- 재난 상황에 따른 **상황 기반 대피 안내 시스템**
+- Unity 기반 VR 환경에서 실시간 양방향 대화 구현
+
+👉 https://github.com/Hun2e/AI-NPC-VR-Safety-Training
+
+---
+
+### 📊 대형마트 빅데이터 분석 프로젝트
+> 대형마트 매출 증대 및 고객 이탈 감소를 목표로 한 데이터 분석 프로젝트
+
+- 구매 데이터 전처리 및 파생변수 생성
+- RFM 기반 고객 세분화 및 인사이트 도출
+- 분석 결과를 바탕으로 프로모션 및 운영 개선 방안 제안
+
 👉 https://github.com/Hun2e/Supermarket-Analytics
 
-### 🔹 VR 기반 안전교육 AI 프로젝트
-> AI NPC와 상호작용하는 몰입형 안전교육 시스템  
-- NLP 기반 대화형 AI
-- Unity + AI Agent  
-👉 https://github.com/Hun2e/AI-NPC-VR-Safety-Training
+---
+
+### ⚛️ React 학습 및 실습 정리
+> React 기초 개념 학습 및 실습 코드 정리
+
+- 컴포넌트 구조, useState, 이벤트 처리
+- 학습 내용 기록 및 실습 코드 정리
+
+👉 https://github.com/Hun2e/Studying-React
 
 ---
 

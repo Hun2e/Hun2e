@@ -22,13 +22,15 @@ Python, Java, JavaScript, C를 기반으로
 👉 https://github.com/Hun2e/Studying-React
 
 ### 🔹 대형마트 빅데이터 분석 프로젝트
->
+> 대형마트 매출증대 방안 도출 프로젝트
+- 데이터 분석, 해석, 방안 도출
+- Python + Pandas + ...
 👉 https://github.com/Hun2e/Supermarket-Analytics
 
 ### 🔹 VR 기반 안전교육 AI 프로젝트
 > AI NPC와 상호작용하는 몰입형 안전교육 시스템  
 - NLP 기반 대화형 AI
-- Unity + AI Agent
+- Unity + AI Agent  
 👉 https://github.com/Hun2e/VR-AI-Project
 
 ---

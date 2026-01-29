@@ -11,7 +11,7 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 - **Backend**: Spring Boot
 - **Frontend**: React
 - **AI / Data**: Pandas, NLP, LLM 활용
-- **Tools**: GitHub, VS Code, IntelliJ
+- **Tools**: GitHub, VS Code, IntelliJ, Eclipse
 
 ---
 
@@ -32,7 +32,7 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 > 대형마트 매출 증대 및 고객 이탈 감소를 목표로 한 데이터 분석 프로젝트
 
 - 구매 데이터 전처리 및 파생변수 생성
-- RFM 기반 고객 세분화 및 인사이트 도출
+- EDA를 통한 고객 및 상품 구매 패턴 분석
 - 분석 결과를 바탕으로 프로모션 및 운영 개선 방안 제안
 
 👉 https://github.com/Hun2e/Supermarket-Analytics
@@ -42,7 +42,7 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 ### ⚛️ React 학습 및 실습 정리
 > React 기초 개념 학습 및 실습 코드 정리
 
-- 컴포넌트 구조, useState, 이벤트 처리
+- 컴포넌트 구조, useState, 이벤트 처리 등
 - 학습 내용 기록 및 실습 코드 정리
 
 👉 https://github.com/Hun2e/Studying-React

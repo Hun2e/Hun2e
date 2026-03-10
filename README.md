@@ -1,5 +1,4 @@
 # 👋 안녕하세요, 임채훈입니다.
-
 문제를 정의하고, 기술로 해결하는 과정을 중요하게 생각하는 주니어 개발자입니다.  
 AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로  
 **사용자와 상호작용하는 시스템**을 만드는 데 관심이 있습니다.
@@ -17,12 +16,24 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 
 ## ⭐ Featured Projects
 
+### 🔍 자소설닷컴 채용공고 자동 트래커
+> 관심 채용공고를 자동으로 수집하여 Notion DB에서 한눈에 관리하는 자동화 시스템
+
+- 자소설닷컴 공고 페이지 **웹 크롤링** (회사명, 마감일, 직무별 작성자 수 추출)
+- **GitHub Actions cron**으로 매시간 자동 실행 — 서버/컴퓨터 없이 동작
+- **Notion API** 연동으로 공고 현황 자동 upsert (신규 등록 / 업데이트)
+- **GitHub Secrets**로 API 키 등 민감 정보 안전하게 관리
+- 마감일 기준 D-day 자동 계산 (`진행중` / `D-3` / `D-1` / `오늘 마감` / `마감됨`)
+
+👉 https://github.com/Hun2e/Recruitment-notice-Tracking
+
+---
+
 ### 일정관리 AI 비서 서비스
 > 개인 일정을 AI와의 상호작용을 통해 관리하는 서비스
 
 - 서비스 기획 → 설계 → 구현 → 배포 등 전 과정 진행 (개인 프로젝트)
 - ... 작성중
-- 
 
 👉 https://github.com/Hun2e/MyNotionAI
 
@@ -68,6 +79,7 @@ AI·데이터 기반 프로젝트와 웹 개발 경험을 바탕으로
 👉 https://github.com/Hun2e/Studying_Spring
 
 ---
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hun2e&show_icons=true)
 

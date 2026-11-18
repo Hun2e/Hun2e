@@ -31,7 +31,7 @@
 
 | 프로젝트 | 소개 | 핵심 성과 | 기술 |
 |---|---|---|---|
-| 🗓 **[MyNotionAI](https://github.com/Hun2e/MyNotionAI)**<br/><sub>개인 · 풀스택 · 2026.02~</sub> | 자연어 일정 캘린더 | 테스트 **48건** | Spring Boot · React |
+| 🗓 **[MyNotionAI](https://github.com/Hun2e/MyNotionAI)**<br/><sub>개인 · 풀스택 · 2026.02~</sub> | 자연어 일정 캘린더 | 테스트 **56건** | Spring Boot · React |
 | 🧱 **[Brickwise](https://github.com/Hun2e/Brickwise)**<br/><sub>개인 · PM · 2026.10</sub> | 레고 세트 RAG 챗봇 | Recall@5 **0.65→0.875**<br/>숫자 정확도 **11/11** | LangGraph · FastAPI |
 | 🖼 **[SignVQA](https://github.com/Hun2e/SignVQA)**<br/><sub>팀 · 개인 실험 라인 · 2026.09~10</sub> | 이미지 4지선다 VQA 실험 | 팀 **217팀 중 21위** | Qwen3.5 · LoRA |
 | 🔍 **[JobRadar](https://github.com/Hun2e/JobRadar)**<br/><sub>개인 · 2026.03~ 운영 중</sub> | 채용공고 자동 추적기 | 테스트 **30건** + CI | Python · Notion API |
